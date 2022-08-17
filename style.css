@@ -324,6 +324,10 @@ body {
 	text-transform: uppercase;
 }
 
+.footer1-item:hover {
+	color: #c91b28;
+}
+
 .footer2{
 	background: #1e1e1e;
 }
@@ -347,4 +351,12 @@ body {
 	justify-content: flex-start;
 	align-items: center;
 	gap: 50px;
+}
+
+.footer-social>img{
+	cursor: pointer;
+}
+
+.footer-social>img:hover {
+	filter: invert(81%) sepia(71%) saturate(3890%) hue-rotate(344deg) brightness(89%) contrast(97%);
 }
