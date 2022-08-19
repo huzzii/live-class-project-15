@@ -6,7 +6,13 @@
 
 ## Project Goal :dart:
 
-To replicate a given portfolio.
+To replicate a given portfolio from an image.
+
+## Time Taken
+
+```
+5 Hours
+```
 
 ## Intended Outcome:
 
